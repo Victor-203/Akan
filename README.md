@@ -22,7 +22,7 @@ To access this project on your local files, you can clone it using these steps
     -Click the submit button to see what my Akan name would be
 
 ## Live link.
-file:///home/victor/Documents/Akan/index.html
+file:///home/victor/Documents/Akan/index.htmlg
 
 ## License and Copyright information.
 Copyright 2021 Victor Mutunga
