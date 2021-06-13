@@ -9,7 +9,11 @@
     Victor Mutunga
 
 ## Setup instructions.
-
+To access this project on your local files, you can clone it using these steps 
+1. Open your terminal
+1. Use this command to clone `$ git clone https://github.com/Victor-203/Akan.git
+1. This will clone the repositoty into your local folder
+1. __Enjoy :)__ 
 
 ## BDD.
     -See a  small description of what  the application does on the landing page.
@@ -18,15 +22,7 @@
     -Click the submit button to see what my Akan name would be
 
 ## Live link.
-
-
-## Technologies used.
-    -HTML
-    -CSS
-    -JS
-
-## Contact information.
-
+file:///home/victor/Documents/Akan/index.html
 
 ## License and Copyright information.
 Copyright 2021 Victor Mutunga
